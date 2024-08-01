@@ -1,0 +1,32 @@
+
+.mover{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+}
+
+.center{
+    margin-left: 425px;
+}
+
+.centrar{
+    margin-left: 425px;
+
+}
+
+
+
+
+
+
+
+
+
+body{
+
+    background-image: url(/src/img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
